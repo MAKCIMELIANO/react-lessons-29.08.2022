@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import Painting from '../Painting/Painting';
+import Painting from '../Painting';
 
 const PaintingList = ({ items }) => {
   return (

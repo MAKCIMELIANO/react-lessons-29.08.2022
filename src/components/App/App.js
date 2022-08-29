@@ -1,6 +1,6 @@
 import paintings from '../../paintings.json';
-import PaintingList from '../PaintingList/PaintingList';
-import Section from '../Section/Section';
+import PaintingList from '../PaintingList';
+import Section from '../Section';
 
 const App = () => {
   return (
